@@ -64,7 +64,7 @@
 
 # About Me 👤
 
-I am a graduate from Binus University, with a degree in Computer Science, specializing in Game Development. I have gained experience working with Unity and its tools as well C# while working on projects throughout University and Internships. D
+I am a graduate from Binus University, with a degree in Computer Science, specializing in Game Development. I have gained experience working with Unity and its tools as well C# while working on projects throughout University and Internships.
 
 During the development process I worked as the main programmer, in charge of developing the code for the mechanics and systems, as well as testing and debugging
 
