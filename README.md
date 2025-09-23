@@ -28,7 +28,7 @@
     </tr> 
     <tr>
       <td align="center"><a href="https://github.com/ArchMage8/Gemastik_Project">Github</td>
-      <td align="center"><a href="https://github.com/ArchMage8/Hology-Project">Github</td>
+      <td align="center"><a href="https://github.com/ArchMage8/Fact-Check">Github</td>
     </tr>
    </body>
 </table>
